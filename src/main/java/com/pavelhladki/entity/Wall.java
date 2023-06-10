@@ -1,3 +1,8 @@
+package com.pavelhladki.wall.entity;
+
+import com.pavelhladki.wall.block.Block;
+import com.pavelhladki.wall.Structure;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;

@@ -1,3 +1,7 @@
+package com.pavelhladki.wall;
+
+import com.pavelhladki.wall.block.Block;
+
 import java.util.List;
 import java.util.Optional;
 
