@@ -7,6 +7,8 @@ import java.util.Objects;
 import java.util.Optional;
 
 public class Wall implements Structure, Serializable {
+
+    private static final long serialVersionUID = 123456789L;
     private List<Block> blocks;
     private String color;
     private String material;
