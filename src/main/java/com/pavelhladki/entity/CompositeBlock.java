@@ -1,4 +1,4 @@
-package com.pavelhladki.wall.block;
+package com.pavelhladki.entity;
 
 import java.util.List;
 
